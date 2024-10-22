@@ -1,14 +1,11 @@
-<!-- Hero Top Image -->
-<p align="center">
-  <img src="Photo.webp " height="250" />
-</p>
-
 <!-- Hero Title -->
 <div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Hello, I'm Hossam Eldin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary></ul></div>
 
+<!-- Hero Title -->
+<p align="center">
+  <a href="https://github.com/hossameldinmohamed"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=%2305982&center=true&vCenter=true&random=false&width=435&height=52&lines=Test+Automation+Engineer;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+</p>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1050&lines=Senior+Quality+Assurance+Engineer+Leveraging+Expertise+in+Testing+and+Quality+Assurance" alt="Typing SVG" /></a>
 
 
 <!--horizontal divider(gradiant)-->
@@ -19,19 +16,17 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 👾 A Senior Quality Assurance Engineer, ensuring software excellence.
+- 👾 A Test Automation Engineer with 7 years of demonstrated experience in the software industry.
   
 -  🌍 Based in Berlin.
    
-- 👨‍💻 Let my <a href="https://hossameldinmohamed.github.io/" target="blank">`portfolio`</a> showcase my testing prowess.
-
-- 💬  Discussing best practices in **`Software Testing`** **&** **`Quality Assurance`** with me.
+- 👨‍💻 Let my <a href="https://hossameldinmohamed.github.io/" target="blank">`portfolio`</a> highlight my expertise in testing.
 
 - 📫 Reach me at <a href="mailto:hossameldinmohamed3@gmail.com" target="_blank">`hossameldinmohamed3@gmail.com`</a>
   
 - 💪🏼 Fav Quote: "Testing leads to failure, and failure leads to understanding."
   
-- ⚡ Continuously learning and adapting to stay ahead in the testing landscape.
+- ⚡ Committed to continuous learning and adapting to stay at the forefront of the testing field.
 
 - 👍 Seeking challenging roles in **`Software Testing`** **&** **`Quality Assurance`** domains.
 
