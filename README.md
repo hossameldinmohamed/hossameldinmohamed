@@ -1,5 +1,11 @@
 <!-- Hero Title -->
-<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Hello, I'm Hossam Eldin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary></ul></div>
+<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">
+        Hello, I'm 
+        <a href="https://hossameldin-portfolio.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
+          Hossam Eldin
+        </a>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+      </h1></summary></ul></div>
 
 <!-- Hero Title -->
 <p align="center">
@@ -20,7 +26,7 @@
   
 -  🌍 Based in Berlin.
    
-- 👨‍💻 Let my <a href="https://hossameldinmohamed.github.io/" target="blank">`portfolio`</a> highlight my expertise in testing.
+- 👨‍💻 Explore my work on <a href="https://hossameldinmohamed.github.io/" target="_blank">`portfolio page`</a> or check out my <a href="https://hossameldin-portfolio.vercel.app/" target="_blank">`portfolio website`</a> to see my expertise in testing and software quality.
 
 - 📫 Reach me at <a href="mailto:hossameldinmohamed3@gmail.com" target="_blank">`hossameldinmohamed3@gmail.com`</a>
   
