@@ -26,7 +26,7 @@
   
 -  🌍 Based in Berlin.
    
-- 👨‍💻 Explore my work on <a href="https://hossameldinmohamed.github.io/" target="_blank">`portfolio page`</a> or check out my <a href="https://hossameldin-portfolio.vercel.app/" target="_blank">`portfolio website`</a> to see my expertise in testing and software quality.
+- 👨‍💻 Learn more about my journey through my  <a href="https://hossameldin-portfolio.vercel.app/" target="_blank">` portfolio website`</a> or explore my professional background in my <a href="https://hossameldinmohamed.vercel.app/" target="_blank">`resume `</a> Both showcase my expertise in testing and software quality.
 
 - 📫 Reach me at <a href="mailto:hossameldinmohamed3@gmail.com" target="_blank">`hossameldinmohamed3@gmail.com`</a>
   
