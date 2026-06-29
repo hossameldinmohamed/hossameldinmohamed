@@ -22,7 +22,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 👾 A Test Automation Engineer with 7 years of demonstrated experience in the software industry.
+- 👾 A Test Automation Engineer with +9 years of demonstrated experience in the software testing industry.
   
 -  🌍 Based in Berlin.
    
