@@ -40,7 +40,7 @@
 
   <!-- Short Stats -->
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=hossameldinmohamed" alt="hossameldinmohamed" />
+  <img src="https://hits.sh/github.com/hossameldinmohamed.svg?label=Views&style=social" alt="Profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/hossameldinmohamed?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/hossameldinmohamed?label=Stars" alt="Total Stars">
 </p>
